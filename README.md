@@ -87,18 +87,21 @@ stock_dict = {
 df = analyzer.analyze_stocks(stock_dict)
 analyzer.create_excel_with_speedometer(df)
 
-##Installations
-
-1. Create a virtual environment**
+## Create a virtual environment
 python -m venv .venv
 
-2. **Run a virtual environment**
+## Run a virtual environment
 .venv\Scripts\activate
 
-3. **Install required packages**
+## Install required packages
 pip install -r requirements.txt
 
-4.Running the Project
+## Running the Project
 python stock_analyzer.py
 
+## Name
+Priyansh Vashishtha
+
+## Conatact me
+pvashisht761@gmail.com
 
